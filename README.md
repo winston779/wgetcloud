@@ -1,6 +1,6 @@
 # wgetcloud官网地址
 
-最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=3m4U)
+最新地址：[wgetcloud.org](https://wgetcloud.ltd/auth/register?code=3m4U)
 
 ## 简介
 
