@@ -30,6 +30,8 @@ WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、T
 
 ## 套餐列表
 
+**年付比月付多一倍流量**
+
 基础专线
 
 <ul>
