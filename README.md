@@ -1,6 +1,6 @@
 # wgetcloud官网地址
 
-最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=Dt7hIt)
+最新地址：[wgetcloud.org](https://wgetcloud.ltd/register?code=Dt7hIt)
 
 ## 简介
 
